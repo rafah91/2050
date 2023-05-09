@@ -25,3 +25,24 @@
 .banner{
     background-color:#4741AF ;
 }
+
+.main-title{
+    font-size:72px;
+    font-weight:700px;
+}
+
+.subtitle{
+    font-size: 25px;
+    font-weight: 400px;
+}
+
+.main-btn{
+    font-size: 18px;
+    font-weight: 400px;
+    text-decoration: none;
+    color: white;
+    background-color:#6c63ff ;
+    padding: 15px 50px;
+    border-radius: 35px;
+    
+}
