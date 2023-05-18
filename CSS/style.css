@@ -1,5 +1,9 @@
 .body{
+    font-family: 'Alegreya', serif;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
+    font-family: 'Rakkas', cursive;
     font-weight: 700;
 }
 
@@ -29,11 +33,13 @@
 .main-title{
     font-size:72px;
     font-weight:700px;
+    color: white;
 }
 
 .subtitle{
     font-size: 25px;
     font-weight: 400px;
+    color: white;
 }
 
 .main-btn{
@@ -44,5 +50,68 @@
     background-color:#6c63ff ;
     padding: 15px 50px;
     border-radius: 35px;
-    
+
 }
+
+
+
+.aboutus-img{
+    margin-left: -330px;
+}
+
+.subtitle-style{
+font-family: 'Poppins', sans-serif;
+font-weight: 600px;
+font-weight: bold;
+color: #6c63ff;
+font-size: 24px;
+line-height: 2
+
+
+}
+
+.title-style{
+ 
+font-family: 'Poppins', sans-serif;
+font-weight: 700px;
+font-weight: bold;
+color: black;
+font-size: 48px;
+display: block;
+
+}
+
+.p-style{
+color: #666666;
+font-size: 18px;
+line-height: 1.55;
+font-family: poppins;
+}
+
+.link-style{
+font-family: 'Poppins', sans-serif;
+display: block;
+visibility: visible;
+color: black;
+font-weight: 700px;
+text-decoration-color: #4741AF;
+}
+
+.service-image{
+border-radius: 50%;
+background-color: rgb(243, 249, 251);
+margin-top: 35px;
+}
+
+.service-img{
+    margin-top: -100px;
+}
+
+.service-icon{
+    
+    background-color: #6c63ff;
+    padding: 15px;
+    width: 55px;
+    border-radius: 50%;
+}
+
