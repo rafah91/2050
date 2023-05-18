@@ -93,6 +93,7 @@ font-family: 'Poppins', sans-serif;
 display: block;
 visibility: visible;
 color: black;
+ font-weight: bold;
 font-weight: 700px;
 text-decoration-color: #4741AF;
 }
@@ -121,4 +122,8 @@ margin-top: 35px;
 
 .why-choose-img{
     margin-left: -125px;
+}
+.mycard{
+    border-bottom: 3px solid #6c63ff;
+    
 }
